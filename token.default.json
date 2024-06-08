@@ -1,0 +1,21 @@
+{
+  "name": "MagicSea Default",
+  "timestamp": "2024-06-08T018:33:33.333Z",
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://ipfs.io/ipfs/QmQL1QY9h4YU561MA1TUgBNDfHuA3wnQNkzstgqyYxfGHy",
+  "keywords": ["shimmer", "iota", "magicsea", "default"],
+  "tokens": [
+    {
+      "name": "Vrom Token",
+      "symbol" : "VROM",
+      "decimals" : 18,
+      "logoURI" : "https://dummy.info/logo.svg",
+      "address" : "0x83Ec9Db168c03bB827dC48839f21430d819be649",
+      "chainId": 8822
+    }
+}
