@@ -1,8 +1,8 @@
 {
   "name": "Moonpad Default",
-  "timestamp": "2024-06-08T18:49:20.526Z",
+  "timestamp": "2024-06-15T17:57:41.543Z",
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 1,
     "patch": 1
   },
@@ -16,6 +16,14 @@
       "decimals" : 18,
       "logoURI" : "https://dummy.info/logo.svg",
       "address" : "0x83Ec9Db168c03bB827dC48839f21430d819be649",
+      "chainId": 8822
+    },
+    {
+      "name" : "Biotacoin",
+      "symbol": "BiTC",
+      "address": "0x58427e8577F704D71d02ab7716e2AA7C02C4C1a2",
+      "logoURI": "https://dummy.info/logo.svg",
+      "decimals": 18,
       "chainId": 8822
     }
   ]
